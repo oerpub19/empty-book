@@ -6,7 +6,7 @@
     <dc:rights>Public domain</dc:rights>
     <dc:creator opf:file-as="Author, Sample">Sample Author</dc:creator>
     <dc:subject>Test Content</dc:subject>
-    <dc:description>This is an empty book to use as a sample for new books<\dc:description>
+    <dc:description>This is an empty book to use as a sample for new books</dc:description>
     <dc:date opf:event="publication">2013-10-08</dc:date>
     <!-- <dc:modified opf:event="last edit">2013-12-19</dc:modified> -->
   </metadata>
