@@ -6,6 +6,7 @@
     <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
     <script type="text/javascript">
       $(document).ready(function(){ 
+        
         var url = document.URL;
         var user = url.slice(url.indexOf("//") + 2, url.indexOf("."));
         var repo = url.split("/").slice(-2, -1);
